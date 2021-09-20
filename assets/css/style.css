@@ -1,0 +1,23 @@
+.heading1{
+    color: green;
+}
+
+.heading4{
+    background: greenyellow;
+    border: 1px solid red;
+    padding: 5px 10px;
+}
+
+.heading2{
+    color:hotpink;
+    border: 2px solid black;
+}
+
+div{
+    background-color: blanchedalmond;
+    color: rgb(red, green, blue);
+}
+
+  #bg-img{
+     background-image: url("../images/computer.jpg");
+}
